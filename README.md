@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/rgt-test-az400/az400-calculator/_apis/build/status/rg54.calculator?branchName=master)](https://dev.azure.com/rgt-test-az400/az400-calculator/_build/latest?definitionId=7&branchName=master)
+
 Calculator.js: a node.js Demonstration Project
 ==============================================
 An example node.js project, including tests with mocha, that behaves like
